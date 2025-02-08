@@ -22,10 +22,10 @@
     "stack-utils": "^1.0.2"
   },
   "peerDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   },
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   },
   "repository": "https://github.com/keystonejs/keystone/tree/master/packages/app-graphql"
 }

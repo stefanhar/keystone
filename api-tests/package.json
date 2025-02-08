@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@keystonejs/auth-password": "^5.1.1",
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   }
 }

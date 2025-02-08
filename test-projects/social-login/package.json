@@ -27,7 +27,7 @@
     "@keystonejs/file-adapters": "^6.0.0",
     "@keystonejs/keystone": "^7.0.0",
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "passport-wordpress": "^0.0.4",
     "react": "^16.13.0"
   },

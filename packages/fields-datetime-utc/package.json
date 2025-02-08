@@ -14,7 +14,7 @@
     "@keystonejs/adapter-knex": "^7.0.0",
     "@keystonejs/adapter-mongoose": "^6.0.0",
     "@keystonejs/fields": "^7.0.2",
-    "luxon": "^1.11.4"
+    "luxon": "^1.28.1"
   },
   "main": "dist/fields-datetime-utc.cjs.js",
   "module": "dist/fields-datetime-utc.esm.js"
