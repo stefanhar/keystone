@@ -10,7 +10,7 @@
   "dependencies": {
     "@keystonejs/fields": "^7.0.2",
     "@keystonejs/session": "^6.0.0",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "nanoassert": "^2.0.0",
     "passport": "^0.4.0",
     "passport-facebook": "^3.0.0",

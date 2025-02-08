@@ -22,10 +22,10 @@
     "cuid": "^2.1.6",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
-    "tinymce": "^5.2.0"
+    "tinymce": "^7.2.0"
   },
   "peerDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   },
   "preconstruct": {
     "entrypoints": [
@@ -35,6 +35,6 @@
   "main": "dist/fields-wysiwyg-tinymce.cjs.js",
   "module": "dist/fields-wysiwyg-tinymce.esm.js",
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   }
 }
